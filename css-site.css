@@ -1,20 +1,32 @@
 body{
 background-color:#F0F8FF
+
 }
 .about-me{
   width:150px;
 
 }
 
+.top-container{
+  text-align: center;
+}
+.middle-container{
+
+  text-align: center;
+}
+.bottom-container{
+  text-align: center;
+}
+
 .top-cloud{
-  width:10%;
-  position: relative;
-  margin-left: 1120px;
+  margin-left:35%;
+
 }
 .down-cloud{
-  width:10%;
-  position:relative;
-  margin-left:180px;
+  margin-right:35%;
+
+
+
 }
 
 .cannon{
@@ -36,9 +48,7 @@ font-size: 18.72px;
 .profile-pic{
   height:200px;
   width:200px;
-  margin:10px auto 10px auto;
-  margin-left:650px;
-}
+  }
 h2, h3{
 
 
@@ -74,8 +84,8 @@ hr{
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  margin-left:670px;
-  
+
+
 }
 
 .btn:hover {
@@ -90,7 +100,7 @@ hr{
 }
 .footer-link{
   text-align: center;
-    margin-left:720px;
+
     color: #11999E
 
 }
